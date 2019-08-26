@@ -1,5 +1,24 @@
 {
   "name": "hexo-full-time",
   "version": "0.0.1",
-  "main": "index"
+  "main": "index",
+  "description": "hexo-fun-time is a tag plugin for Hexo. It can provide you fun time.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Drunkman/hexo-full-time.git"
+  },
+  "author": "Drunkman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Drunkman/hexo-full-time/issues"
+  },
+  "keywords": [
+    "tag",
+    "hexo"
+  ],
+  "homepage": "https://github.com/Drunkman/hexo-full-time#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "deasync": "^0.1.15"
+  }
 }
