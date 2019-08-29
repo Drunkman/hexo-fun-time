@@ -3,6 +3,9 @@
   "version": "0.0.2",
   "main": "index",
   "description": "hexo-fun-time is a tag plugin for Hexo. It can provide you fun time.",
+  "scripts": {
+    "test": "node test/objectUtilsTest.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Drunkman/hexo-fun-time.git"

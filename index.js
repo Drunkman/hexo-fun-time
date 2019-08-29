@@ -1,4 +1,4 @@
-var getJoke = require('./lib/lib');
+var getJoke = require('./lib/joke');
 
 var defaultStyle = {
   body: {
