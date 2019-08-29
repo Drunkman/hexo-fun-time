@@ -83,7 +83,7 @@ For Example, the `content_field` of follow code is `result.[].content`.
   reason: 'Succes',
 } 
 ```
-More example show in [here](/test/objectUtilsTest.js)
+More example show in [here](/test/objectUtilsTest.js).
 
 ## Credits
 Thanks the [RollToolsApi](https://github.com/MZCretin/RollToolsApi) project for default joke resource!
