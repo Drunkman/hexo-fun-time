@@ -19,7 +19,7 @@ var config = {
   disable: hexoConfig.disable || false,
   dynamic: hexoConfig.dynamic || false,
   contentApi: hexoConfig.content_api || "https://www.mxnzp.com/api/jokes/list/random",
-  contentField: hexoConfig.content_field || "data",
+  contentField: hexoConfig.content_field || "data.[].content",
   style: {
     body: Object.assign({}, defaultStyle.body, hexoConfig.style.body),
     title: Object.assign({}, defaultStyle.title, hexoConfig.style.title),
